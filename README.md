@@ -81,6 +81,11 @@
       <img src="assets/link-site-light.svg" height="44" alt="korflux.com.br" />
     </picture></a>
   &nbsp;
+  <a href="https://wa.me/5511989266632"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/link-whatsapp-dark.svg" />
+      <img src="assets/link-whatsapp-light.svg" height="44" alt="WhatsApp" />
+    </picture></a>
+  &nbsp;
   <a href="https://br.linkedin.com/in/marco-kormoczi"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg" />
       <img src="assets/link-linkedin-light.svg" height="44" alt="LinkedIn" />

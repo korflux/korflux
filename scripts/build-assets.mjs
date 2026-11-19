@@ -141,6 +141,7 @@ const STACK = [
 
 const LINKS = [
   { slug: 'site', text: 'korflux.com.br', primary: true },
+  { slug: 'whatsapp', text: 'whatsapp' },
   { slug: 'linkedin', text: 'linkedin' },
   { slug: 'instagram', text: 'instagram' },
   { slug: 'behance', text: 'behance' },
