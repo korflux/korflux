@@ -12,7 +12,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
-    <img src="assets/terminal-light.svg" width="100%" alt="Terminal marco@korflux. Sobre: Gerente de Marketing e VibeCoder, 10+ anos entre marca, growth e produto. Hoje desenho e publico software com agentes de IA. Foco: branding, growth, automação, agentes de IA e open source. Construindo: kastir, aion e vibeflow." />
+    <img src="assets/terminal-light.svg" width="100%" alt="Terminal marco@korflux. Sobre: Gerente de Marketing e VibeCoder, 10+ anos entre marca, growth e produto. Hoje desenho e publico software com agentes de IA. Foco: branding, growth, automação, agentes de IA e open source. Construindo: aion, vibeflow, kastir e movia." />
   </picture>
 </p>
 
@@ -25,31 +25,31 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/korflux/kastir-oss"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-kastir-dark.svg" />
-      <img src="assets/card-kastir-light.svg" width="49%" alt="Kastir: micro-CMS para páginas geradas por IA. Cole o HTML, publique como arquivo estático e deixe agentes operarem via MCP. Next.js, PostgreSQL, MCP." />
-    </picture></a>
   <a href="https://github.com/korflux/aion-bots"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-aion-dark.svg" />
       <img src="assets/card-aion-light.svg" width="49%" alt="Aion: bots auto-hospedados com memória, rotinas e conectores. Rodam no seu servidor e pedem aprovação antes de agir. TypeScript, Fastify, PWA." />
     </picture></a>
-</p>
-<p align="center">
   <a href="https://github.com/korflux/vibeflow"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/card-vibeflow-dark.svg" />
       <img src="assets/card-vibeflow-light.svg" width="49%" alt="vibeflow: skill com um coordenador-líder que planeja, delega a subagentes e confere cada entrega, em qualquer cliente que leia SKILL.md. Node, zero dependências, MIT." />
     </picture></a>
-  <a href="https://korflux.com.br/"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-site-dark.svg" />
-      <img src="assets/card-site-light.svg" width="49%" alt="korflux.com.br: branding, sites e automação integrados para negócios que precisam de sistema para crescer. Astro." />
+</p>
+<p align="center">
+  <a href="https://github.com/korflux/kastir-oss"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-kastir-dark.svg" />
+      <img src="assets/card-kastir-light.svg" width="49%" alt="Kastir: micro-CMS para páginas geradas por IA. Cole o HTML, publique como arquivo estático e deixe agentes operarem via MCP. Next.js, PostgreSQL, MCP." />
+    </picture></a>
+  <a href="https://github.com/korflux/movia"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-movia-dark.svg" />
+      <img src="assets/card-movia-light.svg" width="49%" alt="MovIA: editor de vídeo que agentes de IA operam pela CLI. Você revisa e aprova no navegador, e a versão final sai do plano aprovado. Python, FFmpeg, CLI." />
     </picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/korflux/kastir-oss"><b>kastir-oss</b></a> ·
   <a href="https://github.com/korflux/aion-bots"><b>aion-bots</b></a> ·
   <a href="https://github.com/korflux/vibeflow"><b>vibeflow</b></a> ·
-  <a href="https://korflux.com.br/"><b>korflux.com.br</b></a>
+  <a href="https://github.com/korflux/kastir-oss"><b>kastir-oss</b></a> ·
+  <a href="https://github.com/korflux/movia"><b>movia</b></a>
 </p>
 
 <br />

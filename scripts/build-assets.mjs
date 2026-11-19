@@ -92,17 +92,11 @@ const TERMINAL = [
   { kind: 'cmd', text: 'ls foco/' },
   { kind: 'accent', text: 'branding/   growth/   automacao/   agentes-ia/   open-source/' },
   { kind: 'cmd', text: './status --agora' },
-  { kind: 'out', text: 'construindo: kastir · aion · vibeflow' },
+  { kind: 'out', text: 'construindo: aion · vibeflow · kastir · movia' },
 ];
 
+// Ordem dos cards no README: Aion, vibeflow, Kastir e MovIA (o site segue no hero e no contato).
 const PROJECTS = [
-  {
-    slug: 'kastir',
-    title: 'Kastir',
-    tag: 'micro-cms · fair source',
-    desc: 'Micro-CMS para páginas geradas por IA. Cole o HTML, publique como arquivo estático e deixe agentes operarem via MCP.',
-    chips: ['Next.js', 'PostgreSQL', 'MCP'],
-  },
   {
     slug: 'aion',
     title: 'Aion',
@@ -118,11 +112,18 @@ const PROJECTS = [
     chips: ['SKILL.md', 'Node', 'zero deps'],
   },
   {
-    slug: 'site',
-    title: 'korflux.com.br',
-    tag: 'estúdio · portfólio',
-    desc: 'Branding, sites e automação integrados para negócios que precisam de sistema para crescer.',
-    chips: ['Astro', 'Branding', 'Automação'],
+    slug: 'kastir',
+    title: 'Kastir',
+    tag: 'micro-cms · fair source',
+    desc: 'Micro-CMS para páginas geradas por IA. Cole o HTML, publique como arquivo estático e deixe agentes operarem via MCP.',
+    chips: ['Next.js', 'PostgreSQL', 'MCP'],
+  },
+  {
+    slug: 'movia',
+    title: 'MovIA',
+    tag: 'editor de vídeo · fair source',
+    desc: 'Editor de vídeo que agentes de IA operam pela CLI. Você revisa e aprova no navegador, e a versão final sai do plano aprovado.',
+    chips: ['Python', 'FFmpeg', 'CLI'],
   },
 ];
 
@@ -301,7 +302,7 @@ function terminal(t) {
   return svg(
     W,
     H,
-    'Terminal marco@korflux: Gerente de Marketing e VibeCoder, 10+ anos entre marca, growth e produto. Foco em branding, growth, automação, agentes de IA e open source. Construindo kastir, aion e vibeflow.',
+    'Terminal marco@korflux: Gerente de Marketing e VibeCoder, 10+ anos entre marca, growth e produto. Foco em branding, growth, automação, agentes de IA e open source. Construindo aion, vibeflow, kastir e movia.',
     `<defs>
 <clipPath id="win"><rect x="1" y="1" width="${W - 2}" height="${H - 2}" rx="22"/></clipPath>
 <style>
