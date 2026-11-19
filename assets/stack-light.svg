@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 282" width="1280" height="282" role="img" aria-label="produto: TypeScript, Next.js, Astro, Fastify, Node.js, Python. dados e infra: PostgreSQL, Redis, Docker, Nginx, self-hosted. ia e automação: Claude Code, MCP, agentes, n8n, Composio. marca: Branding, Design estratégico, WordPress, WooCommerce">
+<title>produto: TypeScript, Next.js, Astro, Fastify, Node.js, Python. dados e infra: PostgreSQL, Redis, Docker, Nginx, self-hosted. ia e automação: Claude Code, MCP, agentes, n8n, Composio. marca: Branding, Design estratégico, WordPress, WooCommerce</title>
+<rect x="1" y="1" width="1278" height="280" rx="22" fill="#ffffff" stroke="#cfd8d4" stroke-width="2"/>
+<text x="36" y="58" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#127031">produto</text>
+<rect x="250" y="34" width="138" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="319" y="57.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">TypeScript</text>
+<rect x="400" y="34" width="106" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="453" y="57.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Next.js</text>
+<rect x="518" y="34" width="85" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="560.5" y="57.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Astro</text>
+<rect x="615" y="34" width="106" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="668" y="57.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Fastify</text>
+<rect x="733" y="34" width="106" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="786" y="57.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Node.js</text>
+<rect x="851" y="34" width="96" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="899" y="57.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Python</text>
+
+<text x="36" y="116" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#127031">dados e infra</text>
+<rect x="250" y="92" width="138" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="319" y="115.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">PostgreSQL</text>
+<rect x="400" y="92" width="85" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="442.5" y="115.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Redis</text>
+<rect x="497" y="92" width="96" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="545" y="115.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Docker</text>
+<rect x="605" y="92" width="85" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="647.5" y="115.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Nginx</text>
+<rect x="702" y="92" width="148" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="776" y="115.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">self-hosted</text>
+
+<text x="36" y="174" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#127031">ia e automação</text>
+<rect x="250" y="150" width="148" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="324" y="173.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Claude Code</text>
+<rect x="410" y="150" width="64" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="442" y="173.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">MCP</text>
+<rect x="486" y="150" width="106" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="539" y="173.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">agentes</text>
+<rect x="604" y="150" width="64" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="636" y="173.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">n8n</text>
+<rect x="680" y="150" width="117" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="738.5" y="173.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Composio</text>
+
+<text x="36" y="232" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#127031">marca</text>
+<rect x="250" y="208" width="117" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="308.5" y="231.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Branding</text>
+<rect x="379" y="208" width="222" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="490" y="231.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">Design estratégico</text>
+<rect x="613" y="208" width="127" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="676.5" y="231.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">WordPress</text>
+<rect x="752" y="208" width="148" height="36" rx="18" fill="#eef2f0" stroke="#cfd8d4"/>
+<text x="826" y="231.95" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#050517">WooCommerce</text>
+
+</svg>

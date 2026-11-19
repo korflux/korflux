@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 150" width="1280" height="150" role="img" aria-label="korflux: marca, produto e fluxo">
+<title>korflux: marca, produto e fluxo</title>
+<defs>
+<linearGradient id="edge" x1="0" x2="1">
+<stop offset="0" stop-color="#15cb18" stop-opacity="0"/><stop offset="0.5" stop-color="#15cb18"/><stop offset="1" stop-color="#15cb18" stop-opacity="0"/>
+</linearGradient>
+<style>
+.wave{fill:none;stroke:url(#edge);stroke-width:2;stroke-linecap:round;stroke-dasharray:8 18;animation:flow 10s linear infinite}
+.wave.b{stroke-dasharray:2 24;animation-duration:16s;opacity:.7}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 24s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-520}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+</defs>
+<path class="wave" d="M0 52 C 200 12, 380 92, 580 52"/>
+<path class="wave" d="M700 52 C 900 12, 1080 92, 1280 52"/>
+<path class="wave b" d="M0 60 C 220 96, 400 24, 580 60"/>
+<path class="wave b" d="M700 60 C 880 24, 1060 96, 1280 60"/>
+<g class="spin"><path transform="translate(619 30) scale(0.1429)" d="M171.88,326.65l-50,23.35v-131.25l-53.87,32.41L0,233.59l98.44-58.59L0,115.62l25.78-42.19,96.09,57.03V0h50v130.47l96.09-57.03,25.78,42.97-98.44,58.59,98.44,58.59-25.78,42.97-96.09-57.81v107.9Z" fill="#15cb18" /></g>
+<text x="640" y="128" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="17" fill="#9a9aad">korflux · marca, produto e fluxo</text>
+</svg>

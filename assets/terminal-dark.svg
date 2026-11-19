@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 436" width="1280" height="436" role="img" aria-label="Terminal marco@korflux: Gerente de Marketing e VibeCoder, 10+ anos entre marca, growth e produto. Foco em branding, growth, automação, agentes de IA e open source. Construindo kastir, aion e vibeflow.">
+<title>Terminal marco@korflux: Gerente de Marketing e VibeCoder, 10+ anos entre marca, growth e produto. Foco em branding, growth, automação, agentes de IA e open source. Construindo kastir, aion e vibeflow.</title>
+<defs>
+<clipPath id="win"><rect x="1" y="1" width="1278" height="434" rx="22"/></clipPath>
+<style>
+@keyframes type{to{transform:translateX(1280px)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes show{to{opacity:1}}
+.end{opacity:0;animation:show 1ms linear 3844ms forwards}
+.cursor{animation:blink 1.1s steps(1) infinite}
+.v0{animation:type 420ms steps(15,end) 500ms forwards}
+.v1{animation:type 220ms steps(6,end) 1180ms forwards}
+.v2{animation:type 220ms steps(6,end) 1520ms forwards}
+.v3{animation:type 280ms steps(10,end) 1860ms forwards}
+.v4{animation:type 220ms steps(6,end) 2400ms forwards}
+.v5{animation:type 504ms steps(18,end) 2740ms forwards}
+.v6{animation:type 220ms steps(6,end) 3504ms forwards}
+@media (prefers-reduced-motion: reduce){.veil{display:none}.end{opacity:1}*{animation:none!important}}
+</style>
+</defs>
+<rect x="1" y="1" width="1278" height="434" rx="22" fill="#0b0c1f" stroke="#2a2a54" stroke-width="2"/>
+<g clip-path="url(#win)">
+<rect x="1" y="1" width="1278" height="56" fill="#111323"/>
+<rect x="1" y="56" width="1278" height="2" fill="#2a2a54"/>
+<circle cx="40" cy="29" r="7" fill="#e5484d"/><circle cx="64" cy="29" r="7" fill="#e5b703"/><circle cx="88" cy="29" r="7" fill="#53b262"/>
+<text x="640" y="35" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" fill="#9a9aad">marco@korflux:~</text>
+<text x="44" y="104" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eff2f1" xml:space="preserve"><tspan fill="#15cb18">$ </tspan>cat sobre.txt</text>
+<rect class="veil v0" x="40" y="80" width="1280" height="38" fill="#0b0c1f"/>
+<text x="44" y="142" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#9a9aad" xml:space="preserve">Gerente de Marketing e VibeCoder. 10+ anos entre marca, growth e produto.</text>
+<rect class="veil v1" x="40" y="118" width="1280" height="38" fill="#0b0c1f"/>
+<text x="44" y="180" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#9a9aad" xml:space="preserve">Hoje desenho e publico software com agentes de IA.</text>
+<rect class="veil v2" x="40" y="156" width="1280" height="38" fill="#0b0c1f"/>
+<text x="44" y="218" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eff2f1" xml:space="preserve"><tspan fill="#15cb18">$ </tspan>ls foco/</text>
+<rect class="veil v3" x="40" y="194" width="1280" height="38" fill="#0b0c1f"/>
+<text x="44" y="256" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#15cb18" xml:space="preserve">branding/   growth/   automacao/   agentes-ia/   open-source/</text>
+<rect class="veil v4" x="40" y="232" width="1280" height="38" fill="#0b0c1f"/>
+<text x="44" y="294" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#eff2f1" xml:space="preserve"><tspan fill="#15cb18">$ </tspan>./status --agora</text>
+<rect class="veil v5" x="40" y="270" width="1280" height="38" fill="#0b0c1f"/>
+<text x="44" y="332" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#9a9aad" xml:space="preserve">construindo: kastir · aion · vibeflow</text>
+<rect class="veil v6" x="40" y="308" width="1280" height="38" fill="#0b0c1f"/>
+<g class="end"><text x="44" y="370" font-family="ui-monospace,'SFMono-Regular','SF Mono',Consolas,'Liberation Mono',Menlo,monospace" font-size="20" fill="#15cb18">$ <tspan class="cursor" fill="#eff2f1">▍</tspan></text></g>
+</g>
+</svg>

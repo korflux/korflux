@@ -1,0 +1,13 @@
+{
+  "name": "korflux-profile",
+  "private": true,
+  "version": "1.0.0",
+  "description": "README de perfil do GitHub korflux e gerador dos SVGs de marca.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build-assets.mjs"
+  }
+}
